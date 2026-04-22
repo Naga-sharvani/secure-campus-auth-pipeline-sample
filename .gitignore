@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.local
+
+__pycache__/
+*.pyc
+venv/
+
+dist/
+build/
+coverage/
+
+.DS_Store
+.vscode/
+
+*.log
+yolov8n.pt 
+#too large to be tracked in git
