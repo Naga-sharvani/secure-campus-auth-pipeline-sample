@@ -3,7 +3,10 @@ A 2FA Image-Based Authentication System powered by YOLOv8, FastAPI, and Express.
 
 Part of the <a href="https://github.com/Naga-sharvani/secure-campus-hub">Secure Campus Hub</a> ecosystem.
 <h2>Demo video</h2>
-https://github.com/user-attachments/assets/f65272b1-d307-48a2-b778-eaee1059bb9e
+
+
+https://github.com/user-attachments/assets/01ca4b94-747e-415b-9d09-e51d95946062
+
 
 <h2>Inspiration </h2>
 Traditional admin authentication relies only on passwords.This system introduces an object verification step using YOLO detection, making unauthorized access significantly harder even if credentials are compromised. 
